@@ -6,7 +6,9 @@ for use it first install python
 then go to command shell  type and enter the all command
 
 $ pip install django
+
 $ cd text_modifier
+
 $ python manage.py runserver
 
 than go to you Browser and go to
